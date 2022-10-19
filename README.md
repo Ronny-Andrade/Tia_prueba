@@ -1,12 +1,17 @@
 # Tia_prueba
 PRUEBA PASANTE DATA SCIENCE V3
 
-Tecnologias 
+# Tecnologias 
+
+Orden de datos: Python
 
 Base de datos: MySQL
+
 Backend: Django
+
 Frontend: ReactJS
-Orden de datos: Python
+
+CSS Framework: tailwindcss
 
 # Descripción de carpetas:
 
@@ -43,4 +48,4 @@ EntornoDJ'. nota: para que el comando funcione tiene que instalar django 'python
 
 10.) Utilice el comando 'npm run dev', este le arrojara un enlace por el cual puede visualizar el proyecto.
 
-NOTA: Los datos que se enviaron no tenia el apartado fecha.
+### NOTA: Los datos que se enviaron no tenia el apartado fecha.
